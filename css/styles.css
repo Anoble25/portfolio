@@ -7,8 +7,11 @@ body{
 
 
 #alex-photo{
+  margin: 2%;
   float:right;
   max-width:20%;
+  border: 2px solid white;
+  border-radius: 25px;
 }
 
 .jumbotron{
@@ -54,6 +57,10 @@ h3{
 }
 #travel-panel-header{
   background: rgba(51, 102, 255, 0.3);
+}
+
+#bottom-container h2{
+  color:rgb(255, 221, 204);
 }
 
 
@@ -102,6 +109,19 @@ h3{
   background: rgba(51, 102, 255, 0.3);
 }
 
+#bottom-container{
+  background: rgba(76, 175, 80, 0.3);
+}
+
+#about-me-panel{
+  background-color:transparent;
+}
 .container{
   border-radius: 25px;
 }
+
+/* media query to align font to center if viewpoint size is small
+@media #container1{
+  text-align:center;
+}
+*/
