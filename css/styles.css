@@ -1,5 +1,8 @@
 body{
   background-image: url("../img/seattle.jpg");
+  background-size:cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 
