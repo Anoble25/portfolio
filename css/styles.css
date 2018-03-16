@@ -11,7 +11,7 @@ body{
 .jumbotron{
   float:none;
   border-radius: 25px;
-  opacity: 0.5;
+  background-color: transparent;
 }
 
 #projects-header{
@@ -21,54 +21,74 @@ body{
 }
 
 #travel-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
-#travel-panel-header{
-  background-color: orange;
+p{
+  color:white;
+  text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;
 }
+
+ul{
+  color:white;
+  text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;
+}
+
+h3{
+  color:rgb(255, 221, 204);
+  text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;
+}
+#travel-panel-header{
+  background: rgba(51, 102, 255, 0.3);
+}
+
 
 #resort-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
 #resort-panel-header{
-  background-color: orange;
+  background: rgba(51, 102, 255, 0.3);
 }
 
 #shelter-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
 #shelter-panel-header{
-  background-color: orange;
+  background: rgba(51, 102, 255, 0.3);
 }
 
 #dog-blog-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
 #dog-blog-panel-header{
-  background-color: orange;
+  background: rgba(51, 102, 255, 0.3);
 }
 
 #wikipedia-rebuild-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
 #wikipedia-rebuild-panel-header{
-  background-color: orange;
+  background: rgba(51, 102, 255, 0.3);
 }
 
 #bigfoot-resume-panel{
-  background-color: red;
+  background: rgba(76, 175, 80, 0.3);
+  font-weight:bold;
 }
 
 #bigfoot-resume-panel-header{
-  background-color: orange;
+  background: rgba(51, 102, 255, 0.3);
 }
 
 .container{
   border-radius: 25px;
-  
 }
