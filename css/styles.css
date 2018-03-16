@@ -139,6 +139,17 @@ h3{
   color:rgb(255, 221, 204);
 }
 
+#education-panel{
+  background-color:transparent;
+}
+
+#education-container{
+  float:none;
+  background: rgba(255, 230, 140, 0.3);
+  color:rgb(255, 221, 204);
+}
+
+
 .container{
   border-radius: 25px;
 }
