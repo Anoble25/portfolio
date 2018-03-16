@@ -1,3 +1,8 @@
+body{
+  background-image: url("../img/seattle.jpg");
+}
+
+
 #alex-photo{
   float:right;
   max-width:20%;
@@ -6,6 +11,7 @@
 .jumbotron{
   float:none;
   border-radius: 25px;
+  opacity: 0.5;
 }
 
 #projects-header{
@@ -64,4 +70,5 @@
 
 .container{
   border-radius: 25px;
+  
 }
