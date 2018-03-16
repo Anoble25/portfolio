@@ -5,4 +5,63 @@
 
 .jumbotron{
   float:none;
+  border-radius: 25px;
+}
+
+#projects-header{
+  float:none;
+  text-align:center;
+  font-weight: bolder;
+}
+
+#travel-panel{
+  background-color: red;
+}
+
+#travel-panel-header{
+  background-color: orange;
+}
+
+#resort-panel{
+  background-color: red;
+}
+
+#resort-panel-header{
+  background-color: orange;
+}
+
+#shelter-panel{
+  background-color: red;
+}
+
+#shelter-panel-header{
+  background-color: orange;
+}
+
+#dog-blog-panel{
+  background-color: red;
+}
+
+#dog-blog-panel-header{
+  background-color: orange;
+}
+
+#wikipedia-rebuild-panel{
+  background-color: red;
+}
+
+#wikipedia-rebuild-panel-header{
+  background-color: orange;
+}
+
+#bigfoot-resume-panel{
+  background-color: red;
+}
+
+#bigfoot-resume-panel-header{
+  background-color: orange;
+}
+
+.container{
+  border-radius: 25px;
 }
